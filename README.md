@@ -1,0 +1,2 @@
+# LinkedinClone
+Patika.dev proje
