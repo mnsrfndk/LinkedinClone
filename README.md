@@ -1,2 +1,2 @@
 # LinkedinClone
-Patika.dev proje
+[Patika.dev](https://patika.dev)
